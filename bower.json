@@ -18,7 +18,8 @@
     "ionic-sass-helper": "*",
     "angular-timer": "^1.3.4",
     "angular-local-storage": "^0.2.7",
-    "angular-active-items": "afeiship/angular-active-items"
+    "angular-active-items": "afeiship/angular-active-items",
+    "angular-isloading": "afeiship/angular-isloading"
   },
   "devDependencies": {
     "angular-mocks": "~1.5.3"
